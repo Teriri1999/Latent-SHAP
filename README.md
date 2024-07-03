@@ -5,13 +5,17 @@ This repository contains the code implementation of the paper "Manifold-based Sh
 
 ## Dataset
 MNIST dataset;
-MNIST dataset;
+MSTAR dataset;
 
-## backbone
+## Backbone
 Our work is based on [stylegan2](https://github.com/rosinality/stylegan2-pytorch) which used as a manifold learning approach.
 
 GAN inversion part uses [Image2stylegan](https://github.com/zaidbhat1234/Image2StyleGAN).
 
+## Settings
+### Train StyleGAN2; Pretrained model location: GAN_checkpoint/pretrained.pth
+### Build Background Dataset for SHAP estimation；
+### Prepare Network to be explained; Pretrained model location: checkpoint/model.pth
+
 ## Usage
-### Train StyleGAN2
-### Implement Latent SHAP
+demo.ipynb
