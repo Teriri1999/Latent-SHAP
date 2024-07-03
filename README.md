@@ -23,6 +23,6 @@ Pretrained model location: checkpoint/model.pth
 demo.ipynb
 
 ## Visualization
-![1](./MNIST_domenstration.pdf)
+![1](./MNIST_domenstration.png)
 
 
