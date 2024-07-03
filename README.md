@@ -13,10 +13,10 @@ Our work is based on [stylegan2](https://github.com/rosinality/stylegan2-pytorch
 GAN inversion part uses [Image2stylegan](https://github.com/zaidbhat1234/Image2StyleGAN).
 
 ## Settings
-### Train StyleGAN2; 
+### 1. Train StyleGAN2; 
 Pretrained model location: GAN_checkpoint/pretrained.pth
-### Build Background Dataset for SHAP estimation；
-### Prepare Network to be explained; 
+### 2. Build Background Dataset for SHAP estimation；
+### 3. Prepare Network to be explained; 
 Pretrained model location: checkpoint/model.pth
 
 ## Usage
