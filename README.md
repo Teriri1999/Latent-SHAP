@@ -6,6 +6,7 @@ This repository contains the code implementation of the paper "Manifold-based Sh
 ## Dataset
 MNIST dataset;
 MSTAR dataset;
+CIFAR-10 dataset;
 
 ## Backbone
 Our work is based on [stylegan2](https://github.com/rosinality/stylegan2-pytorch) which used as a manifold learning approach.
